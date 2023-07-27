@@ -1,0 +1,10 @@
+The package requirements for this Python program are as follows:
+
+- tweepy
+- pandas
+- nltk
+- sklearn
+- transformers
+- tensorflow
+- seaborn
+- matplotlib.pyplot

@@ -50,7 +50,7 @@ def preprocess_text(text):
     # Tokenize text
     tokens = text.split()
 
-    # Remove stopwords
+    # Remove stop words
     stop_words = set(stopwords.words('english'))
     tokens = [word for word in tokens if word not in stop_words]
 
